@@ -20,7 +20,7 @@ By leveraging this programmatic approach, a laboratory can scale its screening t
   * **Selectivities (%)** for H2 and CO as desired products
   * **Syngas Product Quality** (H2/CO molar ratios).
   * **Mass Conservation Diagnostics** via a complete gas-phase Carbon Balance profile.
-  * * **Long Term Stability** via tracking of CO yields over time to access the deactivation kinetics
+  * **Long Term Stability** via tracking of CO yields over time to access the deactivation kinetics
 
 ## 🗂️ Pipeline Outputs & Multi-Dashboard BI Architecture
 The system delivers a comprehensive multi-layered data asset architecture designed for both localized debugging and cloud-hosted enterprise storytelling:
